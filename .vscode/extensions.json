@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "vsls-contrib.gitdoc",
+    "dbaeumer.vscode-eslint",
+    "oliversturm.fix-json",
+    "vsls-contrib.codetour"
+  ]
+}
