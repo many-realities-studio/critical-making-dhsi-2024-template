@@ -4,5 +4,4 @@ function setup() {
   fill(255, 255, 255)
   circle(200,150,100)
   circle(200,60,80)
-  circ
 }
